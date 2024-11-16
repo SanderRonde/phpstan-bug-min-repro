@@ -1,0 +1,17 @@
+{
+    "name": "sander/phpstan-bug-min-repro",
+    "autoload": {
+        "psr-4": {
+            "Sander\\PhpstanBugMinRepro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "\"Sander Ronde\"",
+            "email": "awsdfgvhbjn@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "2.0.1"
+    }
+}
